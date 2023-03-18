@@ -1,0 +1,11 @@
+{
+  "name": "yupaysite",
+  "version": "1.0.0",
+  "description": "Contador de visitas en un pagína web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fidel Cartolin",
+  "license": "MIT"
+}
